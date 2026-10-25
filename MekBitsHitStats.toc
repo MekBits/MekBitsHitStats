@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: MekBits Hit Stats
+## Notes: Adds talent and racial hit chance to the character sheet's Hit stat (melee, ranged, spell) and breaks it down in the tooltip. Cosmetic only.
+## Author: MekBits
+## Version: 0.1.0
+## X-License: AGPL-3.0
+## SavedVariables: MekBitsHitStatsDB
+
+Data.lua
+Calc.lua
+UI.lua
